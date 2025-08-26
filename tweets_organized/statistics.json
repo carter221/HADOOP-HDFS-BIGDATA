@@ -1,0 +1,79 @@
+{
+  "total_tweets": 1000,
+  "total_partitions": 12,
+  "partitions": [
+    {
+      "month": "Janvier",
+      "key": "2024-01",
+      "count": 72,
+      "path": "tweets_organized/year=2024/month=01/tweets.json"
+    },
+    {
+      "month": "Février",
+      "key": "2024-02",
+      "count": 79,
+      "path": "tweets_organized/year=2024/month=02/tweets.json"
+    },
+    {
+      "month": "Mars",
+      "key": "2024-03",
+      "count": 75,
+      "path": "tweets_organized/year=2024/month=03/tweets.json"
+    },
+    {
+      "month": "Avril",
+      "key": "2024-04",
+      "count": 75,
+      "path": "tweets_organized/year=2024/month=04/tweets.json"
+    },
+    {
+      "month": "Mai",
+      "key": "2024-05",
+      "count": 91,
+      "path": "tweets_organized/year=2024/month=05/tweets.json"
+    },
+    {
+      "month": "Juin",
+      "key": "2024-06",
+      "count": 81,
+      "path": "tweets_organized/year=2024/month=06/tweets.json"
+    },
+    {
+      "month": "Juillet",
+      "key": "2024-07",
+      "count": 74,
+      "path": "tweets_organized/year=2024/month=07/tweets.json"
+    },
+    {
+      "month": "Août",
+      "key": "2024-08",
+      "count": 75,
+      "path": "tweets_organized/year=2024/month=08/tweets.json"
+    },
+    {
+      "month": "Septembre",
+      "key": "2024-09",
+      "count": 112,
+      "path": "tweets_organized/year=2024/month=09/tweets.json"
+    },
+    {
+      "month": "Octobre",
+      "key": "2024-10",
+      "count": 111,
+      "path": "tweets_organized/year=2024/month=10/tweets.json"
+    },
+    {
+      "month": "Novembre",
+      "key": "2024-11",
+      "count": 68,
+      "path": "tweets_organized/year=2024/month=11/tweets.json"
+    },
+    {
+      "month": "Décembre",
+      "key": "2024-12",
+      "count": 87,
+      "path": "tweets_organized/year=2024/month=12/tweets.json"
+    }
+  ],
+  "generated_at": "2025-08-26T09:21:33.152563"
+}

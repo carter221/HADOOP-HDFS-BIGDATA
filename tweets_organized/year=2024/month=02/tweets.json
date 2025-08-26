@@ -1,0 +1,1746 @@
+[
+  {
+    "user_id": "user_37",
+    "tweet_text": "How #CloudComputing is revolutionizing the way we approach problems. #CloudComputing",
+    "timestamp": "2024-02-25 21:47:06",
+    "hashtags": [
+      "#CloudComputing",
+      "#IoT",
+      "#DataScience"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110740",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_18",
+    "tweet_text": "The role of #DataScience in achieving sustainable development goals. ",
+    "timestamp": "2024-02-02 03:20:27",
+    "hashtags": [
+      "#DataScience"
+    ],
+    "location": {
+      "city": "Tokyo",
+      "coordinates": [
+        35.6895,
+        139.6917
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110755",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_41",
+    "tweet_text": "Exploring the potential of #Analytics in modern industries. ",
+    "timestamp": "2024-02-21 19:08:48",
+    "hashtags": [
+      "#Analytics",
+      "#DataScience",
+      "#IoT"
+    ],
+    "location": {
+      "city": "Tokyo",
+      "coordinates": [
+        35.6895,
+        139.6917
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110757",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_46",
+    "tweet_text": "Challenges and opportunities in the adoption of #MapReduce. #IoT #MachineLearning",
+    "timestamp": "2024-02-07 19:33:34",
+    "hashtags": [
+      "#MapReduce"
+    ],
+    "location": {
+      "city": "São Paulo",
+      "coordinates": [
+        -23.5505,
+        -46.6333
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110760",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_1",
+    "tweet_text": "How #IoT is revolutionizing the way we approach problems. ",
+    "timestamp": "2024-02-18 05:01:08",
+    "hashtags": [
+      "#IoT"
+    ],
+    "location": {
+      "city": "Berlin",
+      "coordinates": [
+        52.52,
+        13.405
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110762",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_36",
+    "tweet_text": "Exploring the potential of #Hadoop in modern industries. #BigData",
+    "timestamp": "2024-02-29 18:08:38",
+    "hashtags": [
+      "#Hadoop",
+      "#MachineLearning"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110764",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_37",
+    "tweet_text": "Just attended a fantastic seminar on #Analytics! Highly recommend. #IoT",
+    "timestamp": "2024-02-02 06:00:42",
+    "hashtags": [
+      "#Analytics"
+    ],
+    "location": {
+      "city": "Paris",
+      "coordinates": [
+        48.8566,
+        2.3522
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110767",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_36",
+    "tweet_text": "The future is here with #AI. Exciting times ahead! #Blockchain",
+    "timestamp": "2024-02-01 13:21:41",
+    "hashtags": [
+      "#AI",
+      "#Hadoop"
+    ],
+    "location": {
+      "city": "New York",
+      "coordinates": [
+        40.7128,
+        -74.006
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110769",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_50",
+    "tweet_text": "Just attended a fantastic seminar on #IoT! Highly recommend. #DataScience",
+    "timestamp": "2024-02-21 19:08:06",
+    "hashtags": [
+      "#IoT",
+      "#BigData",
+      "#Hadoop"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "coordinates": [
+        37.7749,
+        -122.4194
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110771",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_19",
+    "tweet_text": "The future is here with #Blockchain. Exciting times ahead! #DataScience",
+    "timestamp": "2024-02-28 04:49:36",
+    "hashtags": [
+      "#Blockchain",
+      "#MachineLearning",
+      "#CloudComputing"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "coordinates": [
+        37.7749,
+        -122.4194
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110773",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_45",
+    "tweet_text": "The future is here with #Analytics. Exciting times ahead! #Analytics",
+    "timestamp": "2024-02-08 20:34:20",
+    "hashtags": [
+      "#Analytics",
+      "#MachineLearning"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110776",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_42",
+    "tweet_text": "Case study: successful implementation of #BigData in a startup environment. ",
+    "timestamp": "2024-02-06 09:49:50",
+    "hashtags": [
+      "#BigData",
+      "#Hadoop"
+    ],
+    "location": {
+      "city": "Paris",
+      "coordinates": [
+        48.8566,
+        2.3522
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110778",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_7",
+    "tweet_text": "Can anyone explain the basics of #MachineLearning? Starting my journey. ",
+    "timestamp": "2024-02-12 00:09:51",
+    "hashtags": [
+      "#MachineLearning",
+      "#MapReduce",
+      "#DataScience"
+    ],
+    "location": {
+      "city": "Paris",
+      "coordinates": [
+        48.8566,
+        2.3522
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110780",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_39",
+    "tweet_text": "How #MachineLearning is revolutionizing the way we approach problems. #MachineLearning",
+    "timestamp": "2024-02-28 01:36:53",
+    "hashtags": [
+      "#MachineLearning",
+      "#DataScience",
+      "#Blockchain"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110783",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_11",
+    "tweet_text": "Exploring the potential of #IoT in modern industries. #MachineLearning",
+    "timestamp": "2024-02-14 20:31:26",
+    "hashtags": [
+      "#IoT",
+      "#MachineLearning",
+      "#AI"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "coordinates": [
+        37.7749,
+        -122.4194
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110786",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_46",
+    "tweet_text": "Case study: successful implementation of #Hadoop in a startup environment. #MapReduce",
+    "timestamp": "2024-02-12 20:07:16",
+    "hashtags": [
+      "#Hadoop",
+      "#MapReduce",
+      "#AI"
+    ],
+    "location": {
+      "city": "London",
+      "coordinates": [
+        51.5074,
+        -0.1278
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110788",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_25",
+    "tweet_text": "Challenges and opportunities in the adoption of #IoT. #MapReduce #Blockchain",
+    "timestamp": "2024-02-24 20:37:52",
+    "hashtags": [
+      "#IoT"
+    ],
+    "location": {
+      "city": "Mumbai",
+      "coordinates": [
+        19.076,
+        72.8777
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110790",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_27",
+    "tweet_text": "Challenges and opportunities in the adoption of #BigData. #MachineLearning",
+    "timestamp": "2024-02-22 14:03:07",
+    "hashtags": [
+      "#BigData",
+      "#IoT",
+      "#MapReduce"
+    ],
+    "location": {
+      "city": "Tokyo",
+      "coordinates": [
+        35.6895,
+        139.6917
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110792",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_18",
+    "tweet_text": "How #DataScience is revolutionizing the way we approach problems. #CloudComputing #MachineLearning",
+    "timestamp": "2024-02-20 14:54:32",
+    "hashtags": [
+      "#DataScience",
+      "#CloudComputing",
+      "#MapReduce"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "coordinates": [
+        37.7749,
+        -122.4194
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110794",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_28",
+    "tweet_text": "Can anyone explain the basics of #MapReduce? Starting my journey. ",
+    "timestamp": "2024-02-28 02:34:52",
+    "hashtags": [
+      "#MapReduce",
+      "#MapReduce"
+    ],
+    "location": {
+      "city": "Mumbai",
+      "coordinates": [
+        19.076,
+        72.8777
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110797",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_38",
+    "tweet_text": "Can anyone explain the basics of #CloudComputing? Starting my journey. ",
+    "timestamp": "2024-02-02 17:51:45",
+    "hashtags": [
+      "#CloudComputing",
+      "#IoT",
+      "#AI"
+    ],
+    "location": {
+      "city": "Mumbai",
+      "coordinates": [
+        19.076,
+        72.8777
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110799",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_45",
+    "tweet_text": "A beginner's guide to understanding #Blockchain. #Learning #CloudComputing",
+    "timestamp": "2024-02-07 17:34:03",
+    "hashtags": [
+      "#Blockchain",
+      "#CloudComputing",
+      "#BigData"
+    ],
+    "location": {
+      "city": "Berlin",
+      "coordinates": [
+        52.52,
+        13.405
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110801",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_45",
+    "tweet_text": "Can anyone explain the basics of #MapReduce? Starting my journey. #Analytics",
+    "timestamp": "2024-02-19 23:29:08",
+    "hashtags": [
+      "#MapReduce",
+      "#CloudComputing",
+      "#Hadoop"
+    ],
+    "location": {
+      "city": "Paris",
+      "coordinates": [
+        48.8566,
+        2.3522
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110803",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_34",
+    "tweet_text": "The role of #CloudComputing in achieving sustainable development goals. #Blockchain #CloudComputing",
+    "timestamp": "2024-02-17 23:46:31",
+    "hashtags": [
+      "#CloudComputing",
+      "#MachineLearning"
+    ],
+    "location": {
+      "city": "Paris",
+      "coordinates": [
+        48.8566,
+        2.3522
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110805",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_45",
+    "tweet_text": "Case study: successful implementation of #CloudComputing in a startup environment. #DataScience #Hadoop",
+    "timestamp": "2024-02-12 04:12:26",
+    "hashtags": [
+      "#CloudComputing"
+    ],
+    "location": {
+      "city": "London",
+      "coordinates": [
+        51.5074,
+        -0.1278
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110807",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_5",
+    "tweet_text": "A beginner's guide to understanding #Blockchain. #Learning ",
+    "timestamp": "2024-02-06 20:53:22",
+    "hashtags": [
+      "#Blockchain"
+    ],
+    "location": {
+      "city": "Berlin",
+      "coordinates": [
+        52.52,
+        13.405
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110809",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_6",
+    "tweet_text": "The future is here with #Hadoop. Exciting times ahead! #MachineLearning #Analytics",
+    "timestamp": "2024-02-12 02:33:29",
+    "hashtags": [
+      "#Hadoop"
+    ],
+    "location": {
+      "city": "New York",
+      "coordinates": [
+        40.7128,
+        -74.006
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110811",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_17",
+    "tweet_text": "Challenges and opportunities in the adoption of #AI. #MachineLearning",
+    "timestamp": "2024-02-21 08:08:04",
+    "hashtags": [
+      "#AI"
+    ],
+    "location": {
+      "city": "London",
+      "coordinates": [
+        51.5074,
+        -0.1278
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110813",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_30",
+    "tweet_text": "A beginner's guide to understanding #CloudComputing. #Learning #MapReduce",
+    "timestamp": "2024-02-01 04:55:49",
+    "hashtags": [
+      "#CloudComputing"
+    ],
+    "location": {
+      "city": "Berlin",
+      "coordinates": [
+        52.52,
+        13.405
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110815",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_25",
+    "tweet_text": "The role of #AI in achieving sustainable development goals. #MapReduce #BigData",
+    "timestamp": "2024-02-08 04:13:58",
+    "hashtags": [
+      "#AI"
+    ],
+    "location": {
+      "city": "São Paulo",
+      "coordinates": [
+        -23.5505,
+        -46.6333
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110817",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_31",
+    "tweet_text": "The future is here with #IoT. Exciting times ahead! #DataScience",
+    "timestamp": "2024-02-03 22:16:23",
+    "hashtags": [
+      "#IoT",
+      "#Hadoop",
+      "#BigData"
+    ],
+    "location": {
+      "city": "Berlin",
+      "coordinates": [
+        52.52,
+        13.405
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110819",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_18",
+    "tweet_text": "The future is here with #MachineLearning. Exciting times ahead! #Analytics",
+    "timestamp": "2024-02-08 01:07:15",
+    "hashtags": [
+      "#MachineLearning",
+      "#MachineLearning",
+      "#DataScience"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "coordinates": [
+        37.7749,
+        -122.4194
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110820",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_43",
+    "tweet_text": "The future is here with #Hadoop. Exciting times ahead! #Blockchain #IoT",
+    "timestamp": "2024-02-03 07:53:56",
+    "hashtags": [
+      "#Hadoop",
+      "#Analytics"
+    ],
+    "location": {
+      "city": "Mumbai",
+      "coordinates": [
+        19.076,
+        72.8777
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110823",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_3",
+    "tweet_text": "The future is here with #Blockchain. Exciting times ahead! #MachineLearning #AI",
+    "timestamp": "2024-02-10 07:08:55",
+    "hashtags": [
+      "#Blockchain"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "coordinates": [
+        37.7749,
+        -122.4194
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110825",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_37",
+    "tweet_text": "The role of #MachineLearning in achieving sustainable development goals. ",
+    "timestamp": "2024-02-01 10:15:24",
+    "hashtags": [
+      "#MachineLearning"
+    ],
+    "location": {
+      "city": "Paris",
+      "coordinates": [
+        48.8566,
+        2.3522
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110827",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_3",
+    "tweet_text": "Breaking down the myths surrounding #MachineLearning and its applications. #CloudComputing",
+    "timestamp": "2024-02-05 16:36:08",
+    "hashtags": [
+      "#MachineLearning"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110829",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_22",
+    "tweet_text": "The future is here with #DataScience. Exciting times ahead! ",
+    "timestamp": "2024-02-20 02:55:00",
+    "hashtags": [
+      "#DataScience"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110831",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_36",
+    "tweet_text": "How #CloudComputing is revolutionizing the way we approach problems. ",
+    "timestamp": "2024-02-17 23:34:15",
+    "hashtags": [
+      "#CloudComputing",
+      "#Blockchain",
+      "#MachineLearning"
+    ],
+    "location": {
+      "city": "London",
+      "coordinates": [
+        51.5074,
+        -0.1278
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110833",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_20",
+    "tweet_text": "Breaking down the myths surrounding #Blockchain and its applications. ",
+    "timestamp": "2024-02-27 15:21:32",
+    "hashtags": [
+      "#Blockchain",
+      "#BigData",
+      "#Analytics"
+    ],
+    "location": {
+      "city": "Tokyo",
+      "coordinates": [
+        35.6895,
+        139.6917
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110835",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_18",
+    "tweet_text": "Breaking down the myths surrounding #BigData and its applications. ",
+    "timestamp": "2024-02-20 03:06:49",
+    "hashtags": [
+      "#BigData",
+      "#Analytics"
+    ],
+    "location": {
+      "city": "Tokyo",
+      "coordinates": [
+        35.6895,
+        139.6917
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110837",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_50",
+    "tweet_text": "Challenges and opportunities in the adoption of #MachineLearning. #DataScience",
+    "timestamp": "2024-02-09 22:38:26",
+    "hashtags": [
+      "#MachineLearning",
+      "#BigData"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110839",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_44",
+    "tweet_text": "The future is here with #IoT. Exciting times ahead! #IoT",
+    "timestamp": "2024-02-27 06:06:02",
+    "hashtags": [
+      "#IoT",
+      "#CloudComputing",
+      "#Analytics"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110841",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_30",
+    "tweet_text": "Exploring the potential of #Hadoop in modern industries. #IoT",
+    "timestamp": "2024-02-06 05:10:03",
+    "hashtags": [
+      "#Hadoop"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110843",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_36",
+    "tweet_text": "Just attended a fantastic seminar on #Blockchain! Highly recommend. ",
+    "timestamp": "2024-02-04 10:26:41",
+    "hashtags": [
+      "#Blockchain",
+      "#Blockchain"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "coordinates": [
+        37.7749,
+        -122.4194
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110845",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_42",
+    "tweet_text": "Challenges and opportunities in the adoption of #AI. ",
+    "timestamp": "2024-02-29 16:00:38",
+    "hashtags": [
+      "#AI",
+      "#BigData",
+      "#Blockchain"
+    ],
+    "location": {
+      "city": "New York",
+      "coordinates": [
+        40.7128,
+        -74.006
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110847",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_35",
+    "tweet_text": "A beginner's guide to understanding #Analytics. #Learning ",
+    "timestamp": "2024-02-23 05:19:07",
+    "hashtags": [
+      "#Analytics"
+    ],
+    "location": {
+      "city": "Paris",
+      "coordinates": [
+        48.8566,
+        2.3522
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110849",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_29",
+    "tweet_text": "The role of #IoT in achieving sustainable development goals. #AI #IoT",
+    "timestamp": "2024-02-23 22:17:53",
+    "hashtags": [
+      "#IoT",
+      "#AI",
+      "#IoT"
+    ],
+    "location": {
+      "city": "Mumbai",
+      "coordinates": [
+        19.076,
+        72.8777
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110852",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_1",
+    "tweet_text": "A beginner's guide to understanding #BigData. #Learning ",
+    "timestamp": "2024-02-19 13:47:41",
+    "hashtags": [
+      "#BigData"
+    ],
+    "location": {
+      "city": "London",
+      "coordinates": [
+        51.5074,
+        -0.1278
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110859",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_27",
+    "tweet_text": "A beginner's guide to understanding #CloudComputing. #Learning #Analytics",
+    "timestamp": "2024-02-23 11:17:08",
+    "hashtags": [
+      "#CloudComputing",
+      "#CloudComputing",
+      "#Blockchain"
+    ],
+    "location": {
+      "city": "São Paulo",
+      "coordinates": [
+        -23.5505,
+        -46.6333
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110862",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_28",
+    "tweet_text": "Breaking down the myths surrounding #MachineLearning and its applications. #MachineLearning",
+    "timestamp": "2024-02-12 22:28:25",
+    "hashtags": [
+      "#MachineLearning"
+    ],
+    "location": {
+      "city": "São Paulo",
+      "coordinates": [
+        -23.5505,
+        -46.6333
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110864",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_48",
+    "tweet_text": "Case study: successful implementation of #AI in a startup environment. ",
+    "timestamp": "2024-02-23 04:52:54",
+    "hashtags": [
+      "#AI"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110866",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_7",
+    "tweet_text": "A beginner's guide to understanding #IoT. #Learning ",
+    "timestamp": "2024-02-19 19:32:55",
+    "hashtags": [
+      "#IoT",
+      "#BigData",
+      "#IoT"
+    ],
+    "location": {
+      "city": "New York",
+      "coordinates": [
+        40.7128,
+        -74.006
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110868",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_36",
+    "tweet_text": "Case study: successful implementation of #IoT in a startup environment. ",
+    "timestamp": "2024-02-21 17:33:16",
+    "hashtags": [
+      "#IoT"
+    ],
+    "location": {
+      "city": "Tokyo",
+      "coordinates": [
+        35.6895,
+        139.6917
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110870",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_44",
+    "tweet_text": "Can anyone explain the basics of #AI? Starting my journey. #AI #Hadoop",
+    "timestamp": "2024-02-07 01:05:45",
+    "hashtags": [
+      "#AI",
+      "#MachineLearning",
+      "#IoT"
+    ],
+    "location": {
+      "city": "São Paulo",
+      "coordinates": [
+        -23.5505,
+        -46.6333
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110873",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_50",
+    "tweet_text": "Case study: successful implementation of #CloudComputing in a startup environment. #AI #MachineLearning",
+    "timestamp": "2024-02-03 14:03:00",
+    "hashtags": [
+      "#CloudComputing",
+      "#IoT"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110875",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_6",
+    "tweet_text": "Exploring the potential of #Analytics in modern industries. ",
+    "timestamp": "2024-02-08 23:07:38",
+    "hashtags": [
+      "#Analytics"
+    ],
+    "location": {
+      "city": "Mumbai",
+      "coordinates": [
+        19.076,
+        72.8777
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110877",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_9",
+    "tweet_text": "Can anyone explain the basics of #Analytics? Starting my journey. #Analytics",
+    "timestamp": "2024-02-26 14:48:42",
+    "hashtags": [
+      "#Analytics",
+      "#Blockchain",
+      "#IoT"
+    ],
+    "location": {
+      "city": "London",
+      "coordinates": [
+        51.5074,
+        -0.1278
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110879",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_6",
+    "tweet_text": "A beginner's guide to understanding #Blockchain. #Learning #MapReduce",
+    "timestamp": "2024-02-23 07:09:48",
+    "hashtags": [
+      "#Blockchain"
+    ],
+    "location": {
+      "city": "Mumbai",
+      "coordinates": [
+        19.076,
+        72.8777
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110881",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_17",
+    "tweet_text": "Can anyone explain the basics of #Hadoop? Starting my journey. #MachineLearning",
+    "timestamp": "2024-02-01 03:00:40",
+    "hashtags": [
+      "#Hadoop"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "coordinates": [
+        37.7749,
+        -122.4194
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110883",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_13",
+    "tweet_text": "Exploring the potential of #Analytics in modern industries. #MapReduce",
+    "timestamp": "2024-02-08 07:26:13",
+    "hashtags": [
+      "#Analytics",
+      "#AI"
+    ],
+    "location": {
+      "city": "London",
+      "coordinates": [
+        51.5074,
+        -0.1278
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110885",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_43",
+    "tweet_text": "Breaking down the myths surrounding #Blockchain and its applications. ",
+    "timestamp": "2024-02-21 01:34:26",
+    "hashtags": [
+      "#Blockchain"
+    ],
+    "location": {
+      "city": "London",
+      "coordinates": [
+        51.5074,
+        -0.1278
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110888",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_10",
+    "tweet_text": "Case study: successful implementation of #MachineLearning in a startup environment. ",
+    "timestamp": "2024-02-14 09:24:53",
+    "hashtags": [
+      "#MachineLearning",
+      "#CloudComputing"
+    ],
+    "location": {
+      "city": "London",
+      "coordinates": [
+        51.5074,
+        -0.1278
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110890",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_28",
+    "tweet_text": "Just attended a fantastic seminar on #IoT! Highly recommend. ",
+    "timestamp": "2024-02-20 06:04:38",
+    "hashtags": [
+      "#IoT",
+      "#CloudComputing",
+      "#AI"
+    ],
+    "location": {
+      "city": "Dubai",
+      "coordinates": [
+        25.2048,
+        55.2708
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110892",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_15",
+    "tweet_text": "A beginner's guide to understanding #Analytics. #Learning #DataScience",
+    "timestamp": "2024-02-06 21:06:58",
+    "hashtags": [
+      "#Analytics",
+      "#BigData",
+      "#Analytics"
+    ],
+    "location": {
+      "city": "Tokyo",
+      "coordinates": [
+        35.6895,
+        139.6917
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110895",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_26",
+    "tweet_text": "Exploring the potential of #Blockchain in modern industries. #Hadoop #AI",
+    "timestamp": "2024-02-10 22:34:49",
+    "hashtags": [
+      "#Blockchain",
+      "#DataScience"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110897",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_49",
+    "tweet_text": "The future is here with #Hadoop. Exciting times ahead! ",
+    "timestamp": "2024-02-16 20:05:19",
+    "hashtags": [
+      "#Hadoop",
+      "#BigData",
+      "#Analytics"
+    ],
+    "location": {
+      "city": "New York",
+      "coordinates": [
+        40.7128,
+        -74.006
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110900",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_35",
+    "tweet_text": "Can anyone explain the basics of #CloudComputing? Starting my journey. #MachineLearning #IoT",
+    "timestamp": "2024-02-22 20:14:46",
+    "hashtags": [
+      "#CloudComputing",
+      "#IoT",
+      "#Analytics"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "coordinates": [
+        37.7749,
+        -122.4194
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110902",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_2",
+    "tweet_text": "The role of #MapReduce in achieving sustainable development goals. #BigData",
+    "timestamp": "2024-02-03 19:09:22",
+    "hashtags": [
+      "#MapReduce",
+      "#BigData"
+    ],
+    "location": {
+      "city": "São Paulo",
+      "coordinates": [
+        -23.5505,
+        -46.6333
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110905",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_6",
+    "tweet_text": "How #MapReduce is revolutionizing the way we approach problems. ",
+    "timestamp": "2024-02-09 22:43:38",
+    "hashtags": [
+      "#MapReduce",
+      "#AI"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110907",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_38",
+    "tweet_text": "Challenges and opportunities in the adoption of #Hadoop. ",
+    "timestamp": "2024-02-15 02:32:57",
+    "hashtags": [
+      "#Hadoop",
+      "#Analytics"
+    ],
+    "location": {
+      "city": "Paris",
+      "coordinates": [
+        48.8566,
+        2.3522
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110909",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_42",
+    "tweet_text": "The role of #CloudComputing in achieving sustainable development goals. ",
+    "timestamp": "2024-02-15 20:35:36",
+    "hashtags": [
+      "#CloudComputing",
+      "#MachineLearning",
+      "#DataScience"
+    ],
+    "location": {
+      "city": "New York",
+      "coordinates": [
+        40.7128,
+        -74.006
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110912",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_29",
+    "tweet_text": "Can anyone explain the basics of #Hadoop? Starting my journey. ",
+    "timestamp": "2024-02-14 15:12:46",
+    "hashtags": [
+      "#Hadoop"
+    ],
+    "location": {
+      "city": "Dubai",
+      "coordinates": [
+        25.2048,
+        55.2708
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110914",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_39",
+    "tweet_text": "Challenges and opportunities in the adoption of #Blockchain. #IoT #DataScience",
+    "timestamp": "2024-02-05 19:59:36",
+    "hashtags": [
+      "#Blockchain",
+      "#MapReduce"
+    ],
+    "location": {
+      "city": "Berlin",
+      "coordinates": [
+        52.52,
+        13.405
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110916",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_32",
+    "tweet_text": "The future is here with #Hadoop. Exciting times ahead! ",
+    "timestamp": "2024-02-12 21:20:19",
+    "hashtags": [
+      "#Hadoop",
+      "#Analytics",
+      "#BigData"
+    ],
+    "location": {
+      "city": "Dubai",
+      "coordinates": [
+        25.2048,
+        55.2708
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110919",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_23",
+    "tweet_text": "Case study: successful implementation of #MapReduce in a startup environment. #Blockchain #MachineLearning",
+    "timestamp": "2024-02-15 12:56:42",
+    "hashtags": [
+      "#MapReduce",
+      "#MachineLearning"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110921",
+      "partition_key": "2024-02",
+      "total_hashtags": 2,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_12",
+    "tweet_text": "Can anyone explain the basics of #Hadoop? Starting my journey. ",
+    "timestamp": "2024-02-02 11:06:29",
+    "hashtags": [
+      "#Hadoop",
+      "#IoT",
+      "#MachineLearning"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "coordinates": [
+        37.7749,
+        -122.4194
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110924",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_2",
+    "tweet_text": "Exploring the potential of #AI in modern industries. #Blockchain",
+    "timestamp": "2024-02-25 22:37:41",
+    "hashtags": [
+      "#AI",
+      "#Blockchain",
+      "#MapReduce"
+    ],
+    "location": {
+      "city": "Dubai",
+      "coordinates": [
+        25.2048,
+        55.2708
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110926",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_25",
+    "tweet_text": "Challenges and opportunities in the adoption of #Blockchain. #Hadoop #Analytics",
+    "timestamp": "2024-02-21 04:58:30",
+    "hashtags": [
+      "#Blockchain",
+      "#AI",
+      "#BigData"
+    ],
+    "location": {
+      "city": "Sydney",
+      "coordinates": [
+        -33.8688,
+        151.2093
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110929",
+      "partition_key": "2024-02",
+      "total_hashtags": 3,
+      "has_location": true
+    }
+  },
+  {
+    "user_id": "user_17",
+    "tweet_text": "Challenges and opportunities in the adoption of #Blockchain. #Blockchain #MapReduce",
+    "timestamp": "2024-02-03 13:35:23",
+    "hashtags": [
+      "#Blockchain"
+    ],
+    "location": {
+      "city": "Tokyo",
+      "coordinates": [
+        35.6895,
+        139.6917
+      ]
+    },
+    "_metadata": {
+      "processed_at": "2025-08-26T09:21:33.110931",
+      "partition_key": "2024-02",
+      "total_hashtags": 1,
+      "has_location": true
+    }
+  }
+]

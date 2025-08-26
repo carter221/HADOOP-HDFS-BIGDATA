@@ -1,0 +1,573 @@
+{
+  "analysis_type": "geographic_distribution",
+  "generated_at": "2025-08-26T11:14:18.869742",
+  "methodology": "MapReduce - Geographic clustering and theme analysis",
+  "total_countries": 6,
+  "total_cities": 10,
+  "results": {
+    "country_statistics": {
+      "United Kingdom": {
+        "total_tweets": 99,
+        "top_themes": [
+          [
+            "ai",
+            71
+          ],
+          [
+            "bigdata",
+            65
+          ],
+          [
+            "datascience",
+            47
+          ],
+          [
+            "cloud",
+            33
+          ],
+          [
+            "blockchain",
+            32
+          ]
+        ],
+        "cities": [
+          "London"
+        ],
+        "sample_tweets": [
+          "The future is here with #IoT. Exciting times ahead! #AI",
+          "A beginner's guide to understanding #MachineLearning. #Learning ",
+          "The future is here with #Blockchain. Exciting times ahead! #MachineLearning #AI"
+        ]
+      },
+      "Unknown": {
+        "total_tweets": 502,
+        "top_themes": [
+          [
+            "ai",
+            357
+          ],
+          [
+            "bigdata",
+            320
+          ],
+          [
+            "datascience",
+            236
+          ],
+          [
+            "iot",
+            156
+          ],
+          [
+            "cloud",
+            142
+          ]
+        ],
+        "cities": [
+          "Mumbai",
+          "San Francisco",
+          "Dubai",
+          "Sydney",
+          "São Paulo"
+        ],
+        "sample_tweets": [
+          "A beginner's guide to understanding #Blockchain. #Learning #AI",
+          "A beginner's guide to understanding #CloudComputing. #Learning #Analytics",
+          "A beginner's guide to understanding #MapReduce. #Learning #BigData"
+        ]
+      },
+      "Germany": {
+        "total_tweets": 85,
+        "top_themes": [
+          [
+            "bigdata",
+            61
+          ],
+          [
+            "ai",
+            56
+          ],
+          [
+            "datascience",
+            38
+          ],
+          [
+            "iot",
+            25
+          ],
+          [
+            "mapreduce",
+            25
+          ]
+        ],
+        "cities": [
+          "Berlin"
+        ],
+        "sample_tweets": [
+          "Challenges and opportunities in the adoption of #IoT. #BigData #AI",
+          "A beginner's guide to understanding #MachineLearning. #Learning ",
+          "Breaking down the myths surrounding #AI and its applications. "
+        ]
+      },
+      "France": {
+        "total_tweets": 102,
+        "top_themes": [
+          [
+            "ai",
+            74
+          ],
+          [
+            "bigdata",
+            64
+          ],
+          [
+            "datascience",
+            53
+          ],
+          [
+            "cloud",
+            35
+          ],
+          [
+            "mapreduce",
+            27
+          ]
+        ],
+        "cities": [
+          "Paris"
+        ],
+        "sample_tweets": [
+          "The role of #DataScience in achieving sustainable development goals. ",
+          "Just attended a fantastic seminar on #Blockchain! Highly recommend. #CloudComputing #Analytics",
+          "The role of #BigData in achieving sustainable development goals. #CloudComputing"
+        ]
+      },
+      "United States": {
+        "total_tweets": 113,
+        "top_themes": [
+          [
+            "bigdata",
+            76
+          ],
+          [
+            "ai",
+            74
+          ],
+          [
+            "datascience",
+            63
+          ],
+          [
+            "iot",
+            33
+          ],
+          [
+            "cloud",
+            30
+          ]
+        ],
+        "cities": [
+          "New York"
+        ],
+        "sample_tweets": [
+          "Breaking down the myths surrounding #Analytics and its applications. ",
+          "How #AI is revolutionizing the way we approach problems. #BigData #IoT",
+          "Just attended a fantastic seminar on #MachineLearning! Highly recommend. #AI #IoT"
+        ]
+      },
+      "Japan": {
+        "total_tweets": 99,
+        "top_themes": [
+          [
+            "ai",
+            71
+          ],
+          [
+            "bigdata",
+            66
+          ],
+          [
+            "datascience",
+            52
+          ],
+          [
+            "iot",
+            30
+          ],
+          [
+            "blockchain",
+            27
+          ]
+        ],
+        "cities": [
+          "Tokyo"
+        ],
+        "sample_tweets": [
+          "Breaking down the myths surrounding #MapReduce and its applications. ",
+          "Breaking down the myths surrounding #Analytics and its applications. #Hadoop #DataScience",
+          "Exploring the potential of #Analytics in modern industries. #AI"
+        ]
+      }
+    },
+    "city_statistics": {
+      "London": {
+        "country": "United Kingdom",
+        "total_tweets": 99,
+        "top_themes": [
+          [
+            "ai",
+            71
+          ],
+          [
+            "bigdata",
+            65
+          ],
+          [
+            "datascience",
+            47
+          ]
+        ],
+        "coordinates": [
+          51.5074,
+          -0.1278
+        ]
+      },
+      "São Paulo": {
+        "country": "Unknown",
+        "total_tweets": 107,
+        "top_themes": [
+          [
+            "ai",
+            74
+          ],
+          [
+            "bigdata",
+            73
+          ],
+          [
+            "datascience",
+            52
+          ]
+        ],
+        "coordinates": [
+          -23.5505,
+          -46.6333
+        ]
+      },
+      "Berlin": {
+        "country": "Germany",
+        "total_tweets": 85,
+        "top_themes": [
+          [
+            "bigdata",
+            61
+          ],
+          [
+            "ai",
+            56
+          ],
+          [
+            "datascience",
+            38
+          ]
+        ],
+        "coordinates": [
+          52.52,
+          13.405
+        ]
+      },
+      "Paris": {
+        "country": "France",
+        "total_tweets": 102,
+        "top_themes": [
+          [
+            "ai",
+            74
+          ],
+          [
+            "bigdata",
+            64
+          ],
+          [
+            "datascience",
+            53
+          ]
+        ],
+        "coordinates": [
+          48.8566,
+          2.3522
+        ]
+      },
+      "Mumbai": {
+        "country": "Unknown",
+        "total_tweets": 90,
+        "top_themes": [
+          [
+            "ai",
+            64
+          ],
+          [
+            "bigdata",
+            54
+          ],
+          [
+            "datascience",
+            40
+          ]
+        ],
+        "coordinates": [
+          19.076,
+          72.8777
+        ]
+      },
+      "Dubai": {
+        "country": "Unknown",
+        "total_tweets": 104,
+        "top_themes": [
+          [
+            "ai",
+            78
+          ],
+          [
+            "bigdata",
+            62
+          ],
+          [
+            "datascience",
+            43
+          ]
+        ],
+        "coordinates": [
+          25.2048,
+          55.2708
+        ]
+      },
+      "San Francisco": {
+        "country": "Unknown",
+        "total_tweets": 95,
+        "top_themes": [
+          [
+            "ai",
+            67
+          ],
+          [
+            "bigdata",
+            60
+          ],
+          [
+            "datascience",
+            46
+          ]
+        ],
+        "coordinates": [
+          37.7749,
+          -122.4194
+        ]
+      },
+      "Sydney": {
+        "country": "Unknown",
+        "total_tweets": 106,
+        "top_themes": [
+          [
+            "ai",
+            74
+          ],
+          [
+            "bigdata",
+            71
+          ],
+          [
+            "datascience",
+            55
+          ]
+        ],
+        "coordinates": [
+          -33.8688,
+          151.2093
+        ]
+      },
+      "New York": {
+        "country": "United States",
+        "total_tweets": 113,
+        "top_themes": [
+          [
+            "bigdata",
+            76
+          ],
+          [
+            "ai",
+            74
+          ],
+          [
+            "datascience",
+            63
+          ]
+        ],
+        "coordinates": [
+          40.7128,
+          -74.006
+        ]
+      },
+      "Tokyo": {
+        "country": "Japan",
+        "total_tweets": 99,
+        "top_themes": [
+          [
+            "ai",
+            71
+          ],
+          [
+            "bigdata",
+            66
+          ],
+          [
+            "datascience",
+            52
+          ]
+        ],
+        "coordinates": [
+          35.6895,
+          139.6917
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "2024-03": {
+        "United Kingdom": 15,
+        "Unknown": 35,
+        "Germany": 7,
+        "France": 9,
+        "United States": 5,
+        "Japan": 4
+      },
+      "2024-04": {
+        "France": 6,
+        "Unknown": 39,
+        "Germany": 9,
+        "Japan": 12,
+        "United States": 7,
+        "United Kingdom": 2
+      },
+      "2024-05": {
+        "France": 13,
+        "Unknown": 46,
+        "Japan": 8,
+        "United Kingdom": 5,
+        "United States": 11,
+        "Germany": 8
+      },
+      "2024-02": {
+        "Unknown": 42,
+        "Japan": 8,
+        "Germany": 6,
+        "France": 8,
+        "United States": 6,
+        "United Kingdom": 9
+      },
+      "2024-11": {
+        "United Kingdom": 5,
+        "Unknown": 31,
+        "Japan": 8,
+        "France": 8,
+        "United States": 12,
+        "Germany": 4
+      },
+      "2024-10": {
+        "Unknown": 55,
+        "France": 9,
+        "Japan": 9,
+        "United States": 16,
+        "United Kingdom": 14,
+        "Germany": 8
+      },
+      "2024-07": {
+        "Germany": 4,
+        "France": 10,
+        "Unknown": 36,
+        "United States": 11,
+        "United Kingdom": 7,
+        "Japan": 6
+      },
+      "2024-09": {
+        "France": 10,
+        "United Kingdom": 16,
+        "Japan": 12,
+        "Unknown": 56,
+        "United States": 9,
+        "Germany": 9
+      },
+      "2024-08": {
+        "Unknown": 49,
+        "France": 11,
+        "Germany": 5,
+        "United Kingdom": 4,
+        "United States": 3,
+        "Japan": 3
+      },
+      "2024-01": {
+        "Unknown": 30,
+        "Japan": 10,
+        "Germany": 6,
+        "France": 10,
+        "United States": 9,
+        "United Kingdom": 7
+      },
+      "2024-06": {
+        "Unknown": 42,
+        "United Kingdom": 7,
+        "France": 3,
+        "Germany": 12,
+        "United States": 10,
+        "Japan": 7
+      },
+      "2024-12": {
+        "France": 5,
+        "Japan": 12,
+        "United States": 14,
+        "Germany": 7,
+        "Unknown": 41,
+        "United Kingdom": 8
+      }
+    },
+    "theme_analysis": {
+      "global_themes": [
+        [
+          "ai",
+          703
+        ],
+        [
+          "bigdata",
+          652
+        ],
+        [
+          "datascience",
+          489
+        ],
+        [
+          "iot",
+          288
+        ],
+        [
+          "cloud",
+          283
+        ],
+        [
+          "blockchain",
+          270
+        ],
+        [
+          "mapreduce",
+          259
+        ]
+      ],
+      "regional_specialties": {
+        "United Kingdom": [],
+        "Unknown": [],
+        "Germany": [],
+        "France": [],
+        "United States": [],
+        "Japan": []
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "upload_info": {
+    "timestamp": "2025-08-26T12:04:36.700776",
+    "hdfs_base_path": "/user/data/output",
+    "uploader_version": "optimized_v1.0"
+  },
+  "summary": {
+    "total_files": 3,
+    "successful_uploads": 0,
+    "failed_uploads": 3,
+    "success_rate": "0.0%"
+  },
+  "files": [
+    {
+      "filename": "tweets_with_locations.json",
+      "local_path": "json-output/tweets_with_locations.json",
+      "hdfs_path": "/user/data/output/mapreduce_results/organized_data/tweets_with_locations.json",
+      "category": "organized_data",
+      "size": 442114,
+      "success": false,
+      "message": "put: `/user/data/output/mapreduce_results/organized_data/tweets_with_locations.json': No such file or directory: `hdfs://namenode:9000/user/data/output/mapreduce_results/organized_data/tweets_with_locations.json'"
+    },
+    {
+      "filename": "sentiment_analysis.json",
+      "local_path": "json-output/sentiment_analysis.json",
+      "hdfs_path": "/user/data/output/mapreduce_results/sentiment/sentiment_analysis.json",
+      "category": "sentiment",
+      "size": 105792,
+      "success": false,
+      "message": "put: `/user/data/output/mapreduce_results/sentiment/sentiment_analysis.json': No such file or directory: `hdfs://namenode:9000/user/data/output/mapreduce_results/sentiment/sentiment_analysis.json'"
+    }
+  ],
+  "content_analysis": {
+    "tweets_with_locations.json": {
+      "type": "organized_tweets",
+      "total_records": 1000,
+      "sample_fields": [
+        "user_id",
+        "tweet_text",
+        "timestamp",
+        "hashtags",
+        "location"
+      ]
+    },
+    "sentiment_analysis.json": {
+      "type": "sentiment_analysis",
+      "total_days": 338,
+      "methodology": "MapReduce - Daily average sentiment scores",
+      "first_result_keys": [
+        "2024-03-15",
+        "2024-03-28",
+        "2024-03-04",
+        "2024-03-01",
+        "2024-03-07"
+      ]
+    },
+    "geographic_analysis.json": {
+      "type": "geographic_analysis",
+      "total_countries": 6,
+      "total_cities": 10,
+      "methodology": "MapReduce - Geographic clustering and theme analysis"
+    }
+  },
+  "hdfs_structure": {
+    "base_path": "/user/data/output",
+    "mapreduce_results": {
+      "sentiment": "Résultats de l'analyse de sentiment par jour",
+      "geographic": "Analyse de distribution géographique des tweets",
+      "organized_data": "Données organisées des tweets avec localisation"
+    }
+  }
+}
